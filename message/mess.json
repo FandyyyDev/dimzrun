@@ -1,0 +1,18 @@
+{
+  "wait": "*WAIT* || Sedang diproses...",
+  "success": "*Success~*",
+  "badmin": "*REJECTED* || Jadikan bot sebagai admin!",
+  "limit": "*REJECTED* || Limit kamu sudah habis silahkan kirim #buylimit untuk membeli limit",
+  "error": {
+       "stick": "Failed to Convert Image To Sticker...Try Again",
+       "Iv": "The link you provided is not valid",
+       "api": "Maad Terjadi Kesalahan"
+  },
+  "only": {
+       "owner": "*REJECTED* || Only Owners!",
+       "admin": "*REJECTED* || Only Admins!",
+       "group": "*REJECTED* || Only Group!",
+       "prem": "*REJECTED* || Only Premium!",
+       "player": "*REJECTED* || Anda tidak terdaftar sebagai player dalam database, ketik #joinrpg untuk mendaftar"
+  }
+}
